@@ -1,0 +1,13 @@
+Python: 3.10.11
+Platform: Windows-10-10.0.19045-SP0
+tiktoken: 0.14.0
+transformers: 5.19.0
+tokenizers: 0.23.3
+huggingface_hub: 2.2.0
+pandas: 2.3.3
+matplotlib: 3.10.9
+opencc-python-reimplemented: 0.1.7
+HF revision Qwen/Qwen2.5-7B-Instruct: a09a35458c702b33eeacc393d103063234e8bc28
+HF revision bert-base-multilingual-cased: 3f076fdb1ab68d5b2880cb87a0886f315b8146f8
+HF revision xlm-roberta-base: e73636d4f797dec63c3081bb6ed5c7b0bb3f2089
+Dataset openlanguagedata/flores_plus (devtest) revision: e707e62e762a9e2faca3933aa315f4665cc3cd8f

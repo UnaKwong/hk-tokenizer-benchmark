@@ -1,0 +1,37 @@
+tokenizer,set_id,scope,original,no_space,tokens_original,tokens_no_space,fragments_original,fragments_no_space,unk_original,unk_no_space,abs_change,pct_change
+r50k_base,1,sentence,我陣間同啲 colleague 去 lunch。,我陣間同啲colleague去lunch。,18.0,19.0,15.0,14.0,0.0,0.0,1.0,5.5556
+r50k_base,2,sentence,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,個client唔得閒，所以個meeting postpone咗去下個Monday。,35.0,36.0,30.0,30.0,0.0,0.0,1.0,2.8571
+r50k_base,3,sentence,你可唔可以 send 份 design file 嘅 latest version 俾我？,你可唔可以send份design file嘅latest version俾我？,29.0,27.0,22.0,22.0,0.0,0.0,-2.0,-6.8966
+r50k_base,4,sentence,呢個 project 個 deadline 好 tight，所以我哋要 OT。,呢個project個deadline好tight，所以我哋要OT。,30.0,30.0,25.0,24.0,0.0,0.0,0.0,0.0
+r50k_base,5,sentence,我好耐冇見過佢，唔知佢而家做緊乜 job。,我好耐冇見過佢，唔知佢而家做緊乜job。,38.0,38.0,36.0,36.0,0.0,0.0,0.0,0.0
+r50k_base,,mean,,,30.0,30.0,25.6,25.2,0.0,0.0,0.0,0.0
+cl100k_base,1,sentence,我陣間同啲 colleague 去 lunch。,我陣間同啲colleague去lunch。,13.0,13.0,7.0,4.0,0.0,0.0,0.0,0.0
+cl100k_base,2,sentence,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,個client唔得閒，所以個meeting postpone咗去下個Monday。,25.0,24.0,14.0,13.0,0.0,0.0,-1.0,-4.0
+cl100k_base,3,sentence,你可唔可以 send 份 design file 嘅 latest version 俾我？,你可唔可以send份design file嘅latest version俾我？,20.0,18.0,7.0,7.0,0.0,0.0,-2.0,-10.0
+cl100k_base,4,sentence,呢個 project 個 deadline 好 tight，所以我哋要 OT。,呢個project個deadline好tight，所以我哋要OT。,22.0,19.0,12.0,8.0,0.0,0.0,-3.0,-13.6364
+cl100k_base,5,sentence,我好耐冇見過佢，唔知佢而家做緊乜 job。,我好耐冇見過佢，唔知佢而家做緊乜job。,28.0,28.0,19.0,19.0,0.0,0.0,0.0,0.0
+cl100k_base,,mean,,,21.6,20.4,11.8,10.2,0.0,0.0,-1.2,-5.5556
+o200k_base,1,sentence,我陣間同啲 colleague 去 lunch。,我陣間同啲colleague去lunch。,11.0,13.0,4.0,4.0,0.0,0.0,2.0,18.1818
+o200k_base,2,sentence,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,個client唔得閒，所以個meeting postpone咗去下個Monday。,18.0,18.0,6.0,6.0,0.0,0.0,0.0,0.0
+o200k_base,3,sentence,你可唔可以 send 份 design file 嘅 latest version 俾我？,你可唔可以send份design file嘅latest version俾我？,19.0,17.0,6.0,6.0,0.0,0.0,-2.0,-10.5263
+o200k_base,4,sentence,呢個 project 個 deadline 好 tight，所以我哋要 OT。,呢個project個deadline好tight，所以我哋要OT。,14.0,14.0,2.0,2.0,0.0,0.0,0.0,0.0
+o200k_base,5,sentence,我好耐冇見過佢，唔知佢而家做緊乜 job。,我好耐冇見過佢，唔知佢而家做緊乜job。,24.0,24.0,12.0,12.0,0.0,0.0,0.0,0.0
+o200k_base,,mean,,,17.2,17.2,6.0,6.0,0.0,0.0,0.0,0.0
+Qwen2.5,1,sentence,我陣間同啲 colleague 去 lunch。,我陣間同啲colleague去lunch。,12.0,12.0,5.0,2.0,0.0,0.0,0.0,0.0
+Qwen2.5,2,sentence,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,個client唔得閒，所以個meeting postpone咗去下個Monday。,20.0,17.0,6.0,2.0,0.0,0.0,-3.0,-15.0
+Qwen2.5,3,sentence,你可唔可以 send 份 design file 嘅 latest version 俾我？,你可唔可以send份design file嘅latest version俾我？,18.0,15.0,3.0,2.0,0.0,0.0,-3.0,-16.6667
+Qwen2.5,4,sentence,呢個 project 個 deadline 好 tight，所以我哋要 OT。,呢個project個deadline好tight，所以我哋要OT。,18.0,14.0,8.0,2.0,0.0,0.0,-4.0,-22.2222
+Qwen2.5,5,sentence,我好耐冇見過佢，唔知佢而家做緊乜 job。,我好耐冇見過佢，唔知佢而家做緊乜job。,21.0,21.0,6.0,6.0,0.0,0.0,0.0,0.0
+Qwen2.5,,mean,,,17.8,15.8,5.6,2.8,0.0,0.0,-2.0,-11.236
+mBERT,1,sentence,我陣間同啲 colleague 去 lunch。,我陣間同啲colleague去lunch。,11.0,11.0,0.0,0.0,1.0,1.0,0.0,0.0
+mBERT,2,sentence,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,個client唔得閒，所以個meeting postpone咗去下個Monday。,18.0,18.0,0.0,0.0,1.0,1.0,0.0,0.0
+mBERT,3,sentence,你可唔可以 send 份 design file 嘅 latest version 俾我？,你可唔可以send份design file嘅latest version俾我？,15.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+mBERT,4,sentence,呢個 project 個 deadline 好 tight，所以我哋要 OT。,呢個project個deadline好tight，所以我哋要OT。,17.0,17.0,0.0,0.0,1.0,1.0,0.0,0.0
+mBERT,5,sentence,我好耐冇見過佢，唔知佢而家做緊乜 job。,我好耐冇見過佢，唔知佢而家做緊乜job。,18.0,18.0,0.0,0.0,1.0,1.0,0.0,0.0
+mBERT,,mean,,,15.8,15.8,0.0,0.0,0.8,0.8,0.0,0.0
+XLM-R,1,sentence,我陣間同啲 colleague 去 lunch。,我陣間同啲colleague去lunch。,12.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+XLM-R,2,sentence,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,個client唔得閒，所以個meeting postpone咗去下個Monday。,20.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+XLM-R,3,sentence,你可唔可以 send 份 design file 嘅 latest version 俾我？,你可唔可以send份design file嘅latest version俾我？,17.0,15.0,0.0,0.0,0.0,0.0,-2.0,-11.7647
+XLM-R,4,sentence,呢個 project 個 deadline 好 tight，所以我哋要 OT。,呢個project個deadline好tight，所以我哋要OT。,16.0,17.0,0.0,0.0,0.0,0.0,1.0,6.25
+XLM-R,5,sentence,我好耐冇見過佢，唔知佢而家做緊乜 job。,我好耐冇見過佢，唔知佢而家做緊乜job。,18.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0
+XLM-R,,mean,,,16.6,16.4,0.0,0.0,0.0,0.0,-0.2,-1.2048

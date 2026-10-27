@@ -1,0 +1,7 @@
+tokenizer,tokenizer_id,library,vocab_size,algorithm,byte_level,unk_token
+r50k_base,r50k_base,tiktoken,50257,BPE (byte-level),True,none (byte-level)
+cl100k_base,cl100k_base,tiktoken,100277,BPE (byte-level),True,none (byte-level)
+o200k_base,o200k_base,tiktoken,200019,BPE (byte-level),True,none (byte-level)
+Qwen2.5,Qwen/Qwen2.5-7B-Instruct,transformers,151665,BPE (byte-level),True,none (byte-level)
+mBERT,bert-base-multilingual-cased,transformers,119547,WordPiece,False,[UNK]
+XLM-R,xlm-roberta-base,transformers,250002,Unigram,False,<unk>

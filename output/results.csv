@@ -1,0 +1,299 @@
+tokenizer,category,set_id,sample_id,text,char_count,token_count,tokens_per_char,premium_vs_english,unk_count,fragment_count,ws_token_count,roundtrip_exact,roundtrip_content,decoded
+r50k_base,EN,1,set1_EN,I'm going to have lunch with my colleagues later.,49,11,0.22448979591836735,,0,0,,True,True,I'm going to have lunch with my colleagues later.
+r50k_base,ZH_WRITTEN,1,set1_ZH_WRITTEN,我稍後會和同事去吃午飯。,12,25,2.0833333333333335,2.272727272727273,0,24,,True,True,我稍後會和同事去吃午飯。
+r50k_base,ZH_SIMPLIFIED,1,set1_ZH_SIMPLIFIED,我稍后会和同事去吃午饭。,12,26,2.1666666666666665,2.3636363636363638,0,25,,True,True,我稍后会和同事去吃午饭。
+r50k_base,CANTONESE,1,set1_CANTONESE,我陣間同啲同事去食晏。,11,24,2.1818181818181817,2.1818181818181817,0,23,,True,True,我陣間同啲同事去食晏。
+r50k_base,CODE_MIXED,1,set1_CODE_MIXED,我陣間同啲 colleague 去 lunch。,24,18,0.75,1.6363636363636365,0,15,,True,True,我陣間同啲 colleague 去 lunch。
+r50k_base,EN,2,set2_EN,The meeting has been postponed to next Monday because the client is not available.,82,15,0.18292682926829268,,0,0,,True,True,The meeting has been postponed to next Monday because the client is not available.
+r50k_base,ZH_WRITTEN,2,set2_ZH_WRITTEN,由於客戶沒有空，會議已延至下星期一。,18,39,2.1666666666666665,2.6,0,37,,True,True,由於客戶沒有空，會議已延至下星期一。
+r50k_base,ZH_SIMPLIFIED,2,set2_ZH_SIMPLIFIED,由于客户没有空，会议已延至下星期一。,18,40,2.2222222222222223,2.6666666666666665,0,38,,True,True,由于客户没有空，会议已延至下星期一。
+r50k_base,CANTONESE,2,set2_CANTONESE,個客唔得閒，所以個會改咗去下個禮拜一。,19,45,2.3684210526315788,3.0,0,43,,True,True,個客唔得閒，所以個會改咗去下個禮拜一。
+r50k_base,CODE_MIXED,2,set2_CODE_MIXED,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,46,35,0.7608695652173914,2.3333333333333335,0,30,,True,True,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。
+r50k_base,EN,3,set3_EN,Can you send me the latest version of the design file?,54,12,0.2222222222222222,,0,0,,True,True,Can you send me the latest version of the design file?
+r50k_base,ZH_WRITTEN,3,set3_ZH_WRITTEN,你可以把設計檔案的最新版本傳給我嗎？,18,42,2.3333333333333335,3.5,0,40,,True,True,你可以把設計檔案的最新版本傳給我嗎？
+r50k_base,ZH_SIMPLIFIED,3,set3_ZH_SIMPLIFIED,你可以把设计档案的最新版本传给我吗？,18,41,2.2777777777777777,3.4166666666666665,0,39,,True,True,你可以把设计档案的最新版本传给我吗？
+r50k_base,CANTONESE,3,set3_CANTONESE,你可唔可以將份設計檔最新嗰個版本傳俾我？,20,46,2.3,3.8333333333333335,0,45,,True,True,你可唔可以將份設計檔最新嗰個版本傳俾我？
+r50k_base,CODE_MIXED,3,set3_CODE_MIXED,你可唔可以 send 份 design file 嘅 latest version 俾我？,45,29,0.6444444444444445,2.4166666666666665,0,22,,True,True,你可唔可以 send 份 design file 嘅 latest version 俾我？
+r50k_base,EN,4,set4_EN,"The deadline for this project is very tight, so we need to work overtime.",73,16,0.2191780821917808,,0,0,,True,True,"The deadline for this project is very tight, so we need to work overtime."
+r50k_base,ZH_WRITTEN,4,set4_ZH_WRITTEN,這個項目的限期很緊迫，所以我們需要加班。,20,45,2.25,2.8125,0,43,,True,True,這個項目的限期很緊迫，所以我們需要加班。
+r50k_base,ZH_SIMPLIFIED,4,set4_ZH_SIMPLIFIED,这个项目的限期很紧迫，所以我们需要加班。,20,44,2.2,2.75,0,42,,True,True,这个项目的限期很紧迫，所以我们需要加班。
+r50k_base,CANTONESE,4,set4_CANTONESE,呢個項目好趕，所以我哋要加班。,15,35,2.3333333333333335,2.1875,0,34,,True,True,呢個項目好趕，所以我哋要加班。
+r50k_base,CODE_MIXED,4,set4_CODE_MIXED,呢個 project 個 deadline 好 tight，所以我哋要 OT。,39,30,0.7692307692307693,1.875,0,25,,True,True,呢個 project 個 deadline 好 tight，所以我哋要 OT。
+r50k_base,EN,5,set5_EN,"I haven't seen him for a long time, and I don't know what he is doing now.",74,21,0.28378378378378377,,0,0,,True,True,"I haven't seen him for a long time, and I don't know what he is doing now."
+r50k_base,ZH_WRITTEN,5,set5_ZH_WRITTEN,我很久沒有見過他，不知道他現在在做甚麼。,20,43,2.15,2.0476190476190474,0,41,,True,True,我很久沒有見過他，不知道他現在在做甚麼。
+r50k_base,ZH_SIMPLIFIED,5,set5_ZH_SIMPLIFIED,我很久没有见过他，不知道他现在在做甚么。,20,44,2.2,2.0952380952380953,0,42,,True,True,我很久没有见过他，不知道他现在在做甚么。
+r50k_base,CANTONESE,5,set5_CANTONESE,我好耐冇見過佢，唔知佢而家做緊乜嘢。,18,40,2.2222222222222223,1.9047619047619047,0,39,,True,True,我好耐冇見過佢，唔知佢而家做緊乜嘢。
+r50k_base,CODE_MIXED,5,set5_CODE_MIXED,我好耐冇見過佢，唔知佢而家做緊乜 job。,21,38,1.8095238095238095,1.8095238095238095,0,36,,True,True,我好耐冇見過佢，唔知佢而家做緊乜 job。
+r50k_base,CODE,,code_a,"def add_tax(price, rate=0.05):
+    tax = price * rate
+    total = price + tax
+    return round(total, 2)
+",105,43,0.4095238095238095,,0,0,13.0,True,,"def add_tax(price, rate=0.05):
+    tax = price * rate
+    total = price + tax
+    return round(total, 2)
+"
+r50k_base,CODE,,code_b,"for i in range(3):
+    for j in range(3):
+        if i != j:
+            print(i, j)
+        total = i + j
+",107,63,0.5887850467289719,,0,0,33.0,True,,"for i in range(3):
+    for j in range(3):
+        if i != j:
+            print(i, j)
+        total = i + j
+"
+r50k_base,CODE,,code_c,"def greet(name):
+    # 打招呼：回傳問候語
+    message = ""你好，"" + name  # 中文字串
+    return message
+",87,67,0.7701149425287356,,0,36,15.0,True,,"def greet(name):
+    # 打招呼：回傳問候語
+    message = ""你好，"" + name  # 中文字串
+    return message
+"
+cl100k_base,EN,1,set1_EN,I'm going to have lunch with my colleagues later.,49,11,0.22448979591836735,,0,0,,True,True,I'm going to have lunch with my colleagues later.
+cl100k_base,ZH_WRITTEN,1,set1_ZH_WRITTEN,我稍後會和同事去吃午飯。,12,15,1.25,1.3636363636363635,0,6,,True,True,我稍後會和同事去吃午飯。
+cl100k_base,ZH_SIMPLIFIED,1,set1_ZH_SIMPLIFIED,我稍后会和同事去吃午饭。,12,15,1.25,1.3636363636363635,0,5,,True,True,我稍后会和同事去吃午饭。
+cl100k_base,CANTONESE,1,set1_CANTONESE,我陣間同啲同事去食晏。,11,15,1.3636363636363635,1.3636363636363635,0,8,,True,True,我陣間同啲同事去食晏。
+cl100k_base,CODE_MIXED,1,set1_CODE_MIXED,我陣間同啲 colleague 去 lunch。,24,13,0.5416666666666666,1.1818181818181819,0,7,,True,True,我陣間同啲 colleague 去 lunch。
+cl100k_base,EN,2,set2_EN,The meeting has been postponed to next Monday because the client is not available.,82,15,0.18292682926829268,,0,0,,True,True,The meeting has been postponed to next Monday because the client is not available.
+cl100k_base,ZH_WRITTEN,2,set2_ZH_WRITTEN,由於客戶沒有空，會議已延至下星期一。,18,24,1.3333333333333333,1.6,0,12,,True,True,由於客戶沒有空，會議已延至下星期一。
+cl100k_base,ZH_SIMPLIFIED,2,set2_ZH_SIMPLIFIED,由于客户没有空，会议已延至下星期一。,18,18,1.0,1.2,0,2,,True,True,由于客户没有空，会议已延至下星期一。
+cl100k_base,CANTONESE,2,set2_CANTONESE,個客唔得閒，所以個會改咗去下個禮拜一。,19,29,1.5263157894736843,1.9333333333333333,0,19,,True,True,個客唔得閒，所以個會改咗去下個禮拜一。
+cl100k_base,CODE_MIXED,2,set2_CODE_MIXED,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,46,25,0.5434782608695652,1.6666666666666667,0,14,,True,True,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。
+cl100k_base,EN,3,set3_EN,Can you send me the latest version of the design file?,54,12,0.2222222222222222,,0,0,,True,True,Can you send me the latest version of the design file?
+cl100k_base,ZH_WRITTEN,3,set3_ZH_WRITTEN,你可以把設計檔案的最新版本傳給我嗎？,18,25,1.3888888888888888,2.0833333333333335,0,15,,True,True,你可以把設計檔案的最新版本傳給我嗎？
+cl100k_base,ZH_SIMPLIFIED,3,set3_ZH_SIMPLIFIED,你可以把设计档案的最新版本传给我吗？,18,18,1.0,1.5,0,6,,True,True,你可以把设计档案的最新版本传给我吗？
+cl100k_base,CANTONESE,3,set3_CANTONESE,你可唔可以將份設計檔最新嗰個版本傳俾我？,20,29,1.45,2.4166666666666665,0,19,,True,True,你可唔可以將份設計檔最新嗰個版本傳俾我？
+cl100k_base,CODE_MIXED,3,set3_CODE_MIXED,你可唔可以 send 份 design file 嘅 latest version 俾我？,45,20,0.4444444444444444,1.6666666666666667,0,7,,True,True,你可唔可以 send 份 design file 嘅 latest version 俾我？
+cl100k_base,EN,4,set4_EN,"The deadline for this project is very tight, so we need to work overtime.",73,16,0.2191780821917808,,0,0,,True,True,"The deadline for this project is very tight, so we need to work overtime."
+cl100k_base,ZH_WRITTEN,4,set4_ZH_WRITTEN,這個項目的限期很緊迫，所以我們需要加班。,20,28,1.4,1.75,0,17,,True,True,這個項目的限期很緊迫，所以我們需要加班。
+cl100k_base,ZH_SIMPLIFIED,4,set4_ZH_SIMPLIFIED,这个项目的限期很紧迫，所以我们需要加班。,20,21,1.05,1.3125,0,8,,True,True,这个项目的限期很紧迫，所以我们需要加班。
+cl100k_base,CANTONESE,4,set4_CANTONESE,呢個項目好趕，所以我哋要加班。,15,21,1.4,1.3125,0,12,,True,True,呢個項目好趕，所以我哋要加班。
+cl100k_base,CODE_MIXED,4,set4_CODE_MIXED,呢個 project 個 deadline 好 tight，所以我哋要 OT。,39,22,0.5641025641025641,1.375,0,12,,True,True,呢個 project 個 deadline 好 tight，所以我哋要 OT。
+cl100k_base,EN,5,set5_EN,"I haven't seen him for a long time, and I don't know what he is doing now.",74,21,0.28378378378378377,,0,0,,True,True,"I haven't seen him for a long time, and I don't know what he is doing now."
+cl100k_base,ZH_WRITTEN,5,set5_ZH_WRITTEN,我很久沒有見過他，不知道他現在在做甚麼。,20,29,1.45,1.380952380952381,0,17,,True,True,我很久沒有見過他，不知道他現在在做甚麼。
+cl100k_base,ZH_SIMPLIFIED,5,set5_ZH_SIMPLIFIED,我很久没有见过他，不知道他现在在做甚么。,20,23,1.15,1.0952380952380953,0,8,,True,True,我很久没有见过他，不知道他现在在做甚么。
+cl100k_base,CANTONESE,5,set5_CANTONESE,我好耐冇見過佢，唔知佢而家做緊乜嘢。,18,30,1.6666666666666667,1.4285714285714286,0,22,,True,True,我好耐冇見過佢，唔知佢而家做緊乜嘢。
+cl100k_base,CODE_MIXED,5,set5_CODE_MIXED,我好耐冇見過佢，唔知佢而家做緊乜 job。,21,28,1.3333333333333333,1.3333333333333333,0,19,,True,True,我好耐冇見過佢，唔知佢而家做緊乜 job。
+cl100k_base,CODE,,code_a,"def add_tax(price, rate=0.05):
+    tax = price * rate
+    total = price + tax
+    return round(total, 2)
+",105,33,0.3142857142857143,,0,0,6.0,True,,"def add_tax(price, rate=0.05):
+    tax = price * rate
+    total = price + tax
+    return round(total, 2)
+"
+cl100k_base,CODE,,code_b,"for i in range(3):
+    for j in range(3):
+        if i != j:
+            print(i, j)
+        total = i + j
+",107,34,0.3177570093457944,,0,0,5.0,True,,"for i in range(3):
+    for j in range(3):
+        if i != j:
+            print(i, j)
+        total = i + j
+"
+cl100k_base,CODE,,code_c,"def greet(name):
+    # 打招呼：回傳問候語
+    message = ""你好，"" + name  # 中文字串
+    return message
+",87,43,0.4942528735632184,,0,13,7.0,True,,"def greet(name):
+    # 打招呼：回傳問候語
+    message = ""你好，"" + name  # 中文字串
+    return message
+"
+o200k_base,EN,1,set1_EN,I'm going to have lunch with my colleagues later.,49,10,0.20408163265306123,,0,0,,True,True,I'm going to have lunch with my colleagues later.
+o200k_base,ZH_WRITTEN,1,set1_ZH_WRITTEN,我稍後會和同事去吃午飯。,12,12,1.0,1.2,0,0,,True,True,我稍後會和同事去吃午飯。
+o200k_base,ZH_SIMPLIFIED,1,set1_ZH_SIMPLIFIED,我稍后会和同事去吃午饭。,12,12,1.0,1.2,0,0,,True,True,我稍后会和同事去吃午饭。
+o200k_base,CANTONESE,1,set1_CANTONESE,我陣間同啲同事去食晏。,11,14,1.2727272727272727,1.4,0,6,,True,True,我陣間同啲同事去食晏。
+o200k_base,CODE_MIXED,1,set1_CODE_MIXED,我陣間同啲 colleague 去 lunch。,24,11,0.4583333333333333,1.1,0,4,,True,True,我陣間同啲 colleague 去 lunch。
+o200k_base,EN,2,set2_EN,The meeting has been postponed to next Monday because the client is not available.,82,15,0.18292682926829268,,0,0,,True,True,The meeting has been postponed to next Monday because the client is not available.
+o200k_base,ZH_WRITTEN,2,set2_ZH_WRITTEN,由於客戶沒有空，會議已延至下星期一。,18,16,0.8888888888888888,1.0666666666666667,0,0,,True,True,由於客戶沒有空，會議已延至下星期一。
+o200k_base,ZH_SIMPLIFIED,2,set2_ZH_SIMPLIFIED,由于客户没有空，会议已延至下星期一。,18,13,0.7222222222222222,0.8666666666666667,0,0,,True,True,由于客户没有空，会议已延至下星期一。
+o200k_base,CANTONESE,2,set2_CANTONESE,個客唔得閒，所以個會改咗去下個禮拜一。,19,21,1.105263157894737,1.4,0,8,,True,True,個客唔得閒，所以個會改咗去下個禮拜一。
+o200k_base,CODE_MIXED,2,set2_CODE_MIXED,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,46,18,0.391304347826087,1.2,0,6,,True,True,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。
+o200k_base,EN,3,set3_EN,Can you send me the latest version of the design file?,54,12,0.2222222222222222,,0,0,,True,True,Can you send me the latest version of the design file?
+o200k_base,ZH_WRITTEN,3,set3_ZH_WRITTEN,你可以把設計檔案的最新版本傳給我嗎？,18,16,0.8888888888888888,1.3333333333333333,0,2,,True,True,你可以把設計檔案的最新版本傳給我嗎？
+o200k_base,ZH_SIMPLIFIED,3,set3_ZH_SIMPLIFIED,你可以把设计档案的最新版本传给我吗？,18,14,0.7777777777777778,1.1666666666666667,0,0,,True,True,你可以把设计档案的最新版本传给我吗？
+o200k_base,CANTONESE,3,set3_CANTONESE,你可唔可以將份設計檔最新嗰個版本傳俾我？,20,21,1.05,1.75,0,8,,True,True,你可唔可以將份設計檔最新嗰個版本傳俾我？
+o200k_base,CODE_MIXED,3,set3_CODE_MIXED,你可唔可以 send 份 design file 嘅 latest version 俾我？,45,19,0.4222222222222222,1.5833333333333333,0,6,,True,True,你可唔可以 send 份 design file 嘅 latest version 俾我？
+o200k_base,EN,4,set4_EN,"The deadline for this project is very tight, so we need to work overtime.",73,16,0.2191780821917808,,0,0,,True,True,"The deadline for this project is very tight, so we need to work overtime."
+o200k_base,ZH_WRITTEN,4,set4_ZH_WRITTEN,這個項目的限期很緊迫，所以我們需要加班。,20,16,0.8,1.0,0,2,,True,True,這個項目的限期很緊迫，所以我們需要加班。
+o200k_base,ZH_SIMPLIFIED,4,set4_ZH_SIMPLIFIED,这个项目的限期很紧迫，所以我们需要加班。,20,14,0.7,0.875,0,0,,True,True,这个项目的限期很紧迫，所以我们需要加班。
+o200k_base,CANTONESE,4,set4_CANTONESE,呢個項目好趕，所以我哋要加班。,15,15,1.0,0.9375,0,4,,True,True,呢個項目好趕，所以我哋要加班。
+o200k_base,CODE_MIXED,4,set4_CODE_MIXED,呢個 project 個 deadline 好 tight，所以我哋要 OT。,39,14,0.358974358974359,0.875,0,2,,True,True,呢個 project 個 deadline 好 tight，所以我哋要 OT。
+o200k_base,EN,5,set5_EN,"I haven't seen him for a long time, and I don't know what he is doing now.",74,19,0.25675675675675674,,0,0,,True,True,"I haven't seen him for a long time, and I don't know what he is doing now."
+o200k_base,ZH_WRITTEN,5,set5_ZH_WRITTEN,我很久沒有見過他，不知道他現在在做甚麼。,20,16,0.8,0.8421052631578947,0,0,,True,True,我很久沒有見過他，不知道他現在在做甚麼。
+o200k_base,ZH_SIMPLIFIED,5,set5_ZH_SIMPLIFIED,我很久没有见过他，不知道他现在在做甚么。,20,16,0.8,0.8421052631578947,0,0,,True,True,我很久没有见过他，不知道他现在在做甚么。
+o200k_base,CANTONESE,5,set5_CANTONESE,我好耐冇見過佢，唔知佢而家做緊乜嘢。,18,25,1.3888888888888888,1.3157894736842106,0,14,,True,True,我好耐冇見過佢，唔知佢而家做緊乜嘢。
+o200k_base,CODE_MIXED,5,set5_CODE_MIXED,我好耐冇見過佢，唔知佢而家做緊乜 job。,21,24,1.1428571428571428,1.263157894736842,0,12,,True,True,我好耐冇見過佢，唔知佢而家做緊乜 job。
+o200k_base,CODE,,code_a,"def add_tax(price, rate=0.05):
+    tax = price * rate
+    total = price + tax
+    return round(total, 2)
+",105,33,0.3142857142857143,,0,0,6.0,True,,"def add_tax(price, rate=0.05):
+    tax = price * rate
+    total = price + tax
+    return round(total, 2)
+"
+o200k_base,CODE,,code_b,"for i in range(3):
+    for j in range(3):
+        if i != j:
+            print(i, j)
+        total = i + j
+",107,34,0.3177570093457944,,0,0,5.0,True,,"for i in range(3):
+    for j in range(3):
+        if i != j:
+            print(i, j)
+        total = i + j
+"
+o200k_base,CODE,,code_c,"def greet(name):
+    # 打招呼：回傳問候語
+    message = ""你好，"" + name  # 中文字串
+    return message
+",87,35,0.40229885057471265,,0,0,7.0,True,,"def greet(name):
+    # 打招呼：回傳問候語
+    message = ""你好，"" + name  # 中文字串
+    return message
+"
+Qwen2.5,EN,1,set1_EN,I'm going to have lunch with my colleagues later.,49,11,0.22448979591836735,,0,0,,True,True,I'm going to have lunch with my colleagues later.
+Qwen2.5,ZH_WRITTEN,1,set1_ZH_WRITTEN,我稍後會和同事去吃午飯。,12,11,0.9166666666666666,1.0,0,0,,True,True,我稍後會和同事去吃午飯。
+Qwen2.5,ZH_SIMPLIFIED,1,set1_ZH_SIMPLIFIED,我稍后会和同事去吃午饭。,12,10,0.8333333333333334,0.9090909090909091,0,0,,True,True,我稍后会和同事去吃午饭。
+Qwen2.5,CANTONESE,1,set1_CANTONESE,我陣間同啲同事去食晏。,11,11,1.0,1.0,0,2,,True,True,我陣間同啲同事去食晏。
+Qwen2.5,CODE_MIXED,1,set1_CODE_MIXED,我陣間同啲 colleague 去 lunch。,24,12,0.5,1.0909090909090908,0,5,,True,True,我陣間同啲 colleague 去 lunch。
+Qwen2.5,EN,2,set2_EN,The meeting has been postponed to next Monday because the client is not available.,82,15,0.18292682926829268,,0,0,,True,True,The meeting has been postponed to next Monday because the client is not available.
+Qwen2.5,ZH_WRITTEN,2,set2_ZH_WRITTEN,由於客戶沒有空，會議已延至下星期一。,18,13,0.7222222222222222,0.8666666666666667,0,0,,True,True,由於客戶沒有空，會議已延至下星期一。
+Qwen2.5,ZH_SIMPLIFIED,2,set2_ZH_SIMPLIFIED,由于客户没有空，会议已延至下星期一。,18,13,0.7222222222222222,0.8666666666666667,0,0,,True,True,由于客户没有空，会议已延至下星期一。
+Qwen2.5,CANTONESE,2,set2_CANTONESE,個客唔得閒，所以個會改咗去下個禮拜一。,19,19,1.0,1.2666666666666666,0,2,,True,True,個客唔得閒，所以個會改咗去下個禮拜一。
+Qwen2.5,CODE_MIXED,2,set2_CODE_MIXED,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,46,20,0.43478260869565216,1.3333333333333333,0,6,,True,True,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。
+Qwen2.5,EN,3,set3_EN,Can you send me the latest version of the design file?,54,12,0.2222222222222222,,0,0,,True,True,Can you send me the latest version of the design file?
+Qwen2.5,ZH_WRITTEN,3,set3_ZH_WRITTEN,你可以把設計檔案的最新版本傳給我嗎？,18,12,0.6666666666666666,1.0,0,0,,True,True,你可以把設計檔案的最新版本傳給我嗎？
+Qwen2.5,ZH_SIMPLIFIED,3,set3_ZH_SIMPLIFIED,你可以把设计档案的最新版本传给我吗？,18,11,0.6111111111111112,0.9166666666666666,0,0,,True,True,你可以把设计档案的最新版本传给我吗？
+Qwen2.5,CANTONESE,3,set3_CANTONESE,你可唔可以將份設計檔最新嗰個版本傳俾我？,20,17,0.85,1.4166666666666667,0,2,,True,True,你可唔可以將份設計檔最新嗰個版本傳俾我？
+Qwen2.5,CODE_MIXED,3,set3_CODE_MIXED,你可唔可以 send 份 design file 嘅 latest version 俾我？,45,18,0.4,1.5,0,3,,True,True,你可唔可以 send 份 design file 嘅 latest version 俾我？
+Qwen2.5,EN,4,set4_EN,"The deadline for this project is very tight, so we need to work overtime.",73,16,0.2191780821917808,,0,0,,True,True,"The deadline for this project is very tight, so we need to work overtime."
+Qwen2.5,ZH_WRITTEN,4,set4_ZH_WRITTEN,這個項目的限期很緊迫，所以我們需要加班。,20,13,0.65,0.8125,0,0,,True,True,這個項目的限期很緊迫，所以我們需要加班。
+Qwen2.5,ZH_SIMPLIFIED,4,set4_ZH_SIMPLIFIED,这个项目的限期很紧迫，所以我们需要加班。,20,10,0.5,0.625,0,0,,True,True,这个项目的限期很紧迫，所以我们需要加班。
+Qwen2.5,CANTONESE,4,set4_CANTONESE,呢個項目好趕，所以我哋要加班。,15,12,0.8,0.75,0,2,,True,True,呢個項目好趕，所以我哋要加班。
+Qwen2.5,CODE_MIXED,4,set4_CODE_MIXED,呢個 project 個 deadline 好 tight，所以我哋要 OT。,39,18,0.46153846153846156,1.125,0,8,,True,True,呢個 project 個 deadline 好 tight，所以我哋要 OT。
+Qwen2.5,EN,5,set5_EN,"I haven't seen him for a long time, and I don't know what he is doing now.",74,21,0.28378378378378377,,0,0,,True,True,"I haven't seen him for a long time, and I don't know what he is doing now."
+Qwen2.5,ZH_WRITTEN,5,set5_ZH_WRITTEN,我很久沒有見過他，不知道他現在在做甚麼。,20,15,0.75,0.7142857142857143,0,0,,True,True,我很久沒有見過他，不知道他現在在做甚麼。
+Qwen2.5,ZH_SIMPLIFIED,5,set5_ZH_SIMPLIFIED,我很久没有见过他，不知道他现在在做甚么。,20,13,0.65,0.6190476190476191,0,0,,True,True,我很久没有见过他，不知道他现在在做甚么。
+Qwen2.5,CANTONESE,5,set5_CANTONESE,我好耐冇見過佢，唔知佢而家做緊乜嘢。,18,22,1.2222222222222223,1.0476190476190477,0,8,,True,True,我好耐冇見過佢，唔知佢而家做緊乜嘢。
+Qwen2.5,CODE_MIXED,5,set5_CODE_MIXED,我好耐冇見過佢，唔知佢而家做緊乜 job。,21,21,1.0,1.0,0,6,,True,True,我好耐冇見過佢，唔知佢而家做緊乜 job。
+Qwen2.5,CODE,,code_a,"def add_tax(price, rate=0.05):
+    tax = price * rate
+    total = price + tax
+    return round(total, 2)
+",105,34,0.3238095238095238,,0,0,6.0,True,,"def add_tax(price, rate=0.05):
+    tax = price * rate
+    total = price + tax
+    return round(total, 2)
+"
+Qwen2.5,CODE,,code_b,"for i in range(3):
+    for j in range(3):
+        if i != j:
+            print(i, j)
+        total = i + j
+",107,34,0.3177570093457944,,0,0,5.0,True,,"for i in range(3):
+    for j in range(3):
+        if i != j:
+            print(i, j)
+        total = i + j
+"
+Qwen2.5,CODE,,code_c,"def greet(name):
+    # 打招呼：回傳問候語
+    message = ""你好，"" + name  # 中文字串
+    return message
+",87,35,0.40229885057471265,,0,2,7.0,True,,"def greet(name):
+    # 打招呼：回傳問候語
+    message = ""你好，"" + name  # 中文字串
+    return message
+"
+mBERT,EN,1,set1_EN,I'm going to have lunch with my colleagues later.,49,13,0.2653061224489796,,0,0,,False,True,I ' m going to have lunch with my colleagues later.
+mBERT,ZH_WRITTEN,1,set1_ZH_WRITTEN,我稍後會和同事去吃午飯。,12,12,1.0,0.9230769230769231,0,0,,False,True,我 稍 後 會 和 同 事 去 吃 午 飯 。
+mBERT,ZH_SIMPLIFIED,1,set1_ZH_SIMPLIFIED,我稍后会和同事去吃午饭。,12,12,1.0,0.9230769230769231,0,0,,False,True,我 稍 后 会 和 同 事 去 吃 午 饭 。
+mBERT,CANTONESE,1,set1_CANTONESE,我陣間同啲同事去食晏。,11,11,1.0,0.8461538461538461,1,0,,False,False,我 陣 間 同 [UNK] 同 事 去 食 晏 。
+mBERT,CODE_MIXED,1,set1_CODE_MIXED,我陣間同啲 colleague 去 lunch。,24,11,0.4583333333333333,0.8461538461538461,1,0,,False,False,我 陣 間 同 [UNK] colleague 去 lunch 。
+mBERT,EN,2,set2_EN,The meeting has been postponed to next Monday because the client is not available.,82,17,0.2073170731707317,,0,0,,True,True,The meeting has been postponed to next Monday because the client is not available.
+mBERT,ZH_WRITTEN,2,set2_ZH_WRITTEN,由於客戶沒有空，會議已延至下星期一。,18,18,1.0,1.0588235294117647,0,0,,False,True,由 於 客 戶 沒 有 空 ， 會 議 已 延 至 下 星 期 一 。
+mBERT,ZH_SIMPLIFIED,2,set2_ZH_SIMPLIFIED,由于客户没有空，会议已延至下星期一。,18,18,1.0,1.0588235294117647,0,0,,False,True,由 于 客 户 没 有 空 ， 会 议 已 延 至 下 星 期 一 。
+mBERT,CANTONESE,2,set2_CANTONESE,個客唔得閒，所以個會改咗去下個禮拜一。,19,19,1.0,1.1176470588235294,1,0,,False,False,個 客 唔 得 閒 ， 所 以 個 會 改 [UNK] 去 下 個 禮 拜 一 。
+mBERT,CODE_MIXED,2,set2_CODE_MIXED,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,46,18,0.391304347826087,1.0588235294117647,1,0,,False,False,個 client 唔 得 閒 ， 所 以 個 meeting postpone [UNK] 去 下 個 Monday 。
+mBERT,EN,3,set3_EN,Can you send me the latest version of the design file?,54,12,0.2222222222222222,,0,0,,True,True,Can you send me the latest version of the design file?
+mBERT,ZH_WRITTEN,3,set3_ZH_WRITTEN,你可以把設計檔案的最新版本傳給我嗎？,18,18,1.0,1.5,0,0,,False,True,你 可 以 把 設 計 檔 案 的 最 新 版 本 傳 給 我 嗎 ？
+mBERT,ZH_SIMPLIFIED,3,set3_ZH_SIMPLIFIED,你可以把设计档案的最新版本传给我吗？,18,18,1.0,1.5,0,0,,False,True,你 可 以 把 设 计 档 案 的 最 新 版 本 传 给 我 吗 ？
+mBERT,CANTONESE,3,set3_CANTONESE,你可唔可以將份設計檔最新嗰個版本傳俾我？,20,20,1.0,1.6666666666666667,1,0,,False,False,你 可 唔 可 以 將 份 設 計 檔 最 新 [UNK] 個 版 本 傳 俾 我 ？
+mBERT,CODE_MIXED,3,set3_CODE_MIXED,你可唔可以 send 份 design file 嘅 latest version 俾我？,45,15,0.3333333333333333,1.25,0,0,,False,True,你 可 唔 可 以 send 份 design file 嘅 latest version 俾 我 ？
+mBERT,EN,4,set4_EN,"The deadline for this project is very tight, so we need to work overtime.",73,18,0.2465753424657534,,0,0,,True,True,"The deadline for this project is very tight, so we need to work overtime."
+mBERT,ZH_WRITTEN,4,set4_ZH_WRITTEN,這個項目的限期很緊迫，所以我們需要加班。,20,20,1.0,1.1111111111111112,0,0,,False,True,這 個 項 目 的 限 期 很 緊 迫 ， 所 以 我 們 需 要 加 班 。
+mBERT,ZH_SIMPLIFIED,4,set4_ZH_SIMPLIFIED,这个项目的限期很紧迫，所以我们需要加班。,20,20,1.0,1.1111111111111112,0,0,,False,True,这 个 项 目 的 限 期 很 紧 迫 ， 所 以 我 们 需 要 加 班 。
+mBERT,CANTONESE,4,set4_CANTONESE,呢個項目好趕，所以我哋要加班。,15,15,1.0,0.8333333333333334,1,0,,False,False,呢 個 項 目 好 趕 ， 所 以 我 [UNK] 要 加 班 。
+mBERT,CODE_MIXED,4,set4_CODE_MIXED,呢個 project 個 deadline 好 tight，所以我哋要 OT。,39,17,0.4358974358974359,0.9444444444444444,1,0,,False,False,呢 個 project 個 deadline 好 tight ， 所 以 我 [UNK] 要 OT 。
+mBERT,EN,5,set5_EN,"I haven't seen him for a long time, and I don't know what he is doing now.",74,23,0.3108108108108108,,0,0,,False,True,"I haven ' t seen him for a long time, and I don ' t know what he is doing now."
+mBERT,ZH_WRITTEN,5,set5_ZH_WRITTEN,我很久沒有見過他，不知道他現在在做甚麼。,20,20,1.0,0.8695652173913043,0,0,,False,True,我 很 久 沒 有 見 過 他 ， 不 知 道 他 現 在 在 做 甚 麼 。
+mBERT,ZH_SIMPLIFIED,5,set5_ZH_SIMPLIFIED,我很久没有见过他，不知道他现在在做甚么。,20,20,1.0,0.8695652173913043,0,0,,False,True,我 很 久 没 有 见 过 他 ， 不 知 道 他 现 在 在 做 甚 么 。
+mBERT,CANTONESE,5,set5_CANTONESE,我好耐冇見過佢，唔知佢而家做緊乜嘢。,18,18,1.0,0.782608695652174,1,0,,False,False,我 好 耐 冇 見 過 佢 ， 唔 知 佢 而 家 做 緊 [UNK] 嘢 。
+mBERT,CODE_MIXED,5,set5_CODE_MIXED,我好耐冇見過佢，唔知佢而家做緊乜 job。,21,18,0.8571428571428571,0.782608695652174,1,0,,False,False,我 好 耐 冇 見 過 佢 ， 唔 知 佢 而 家 做 緊 [UNK] job 。
+mBERT,CODE,,code_a,"def add_tax(price, rate=0.05):
+    tax = price * rate
+    total = price + tax
+    return round(total, 2)
+",105,31,0.29523809523809524,,0,0,0.0,False,,"def add _ tax ( price, rate = 0. 05 ) : tax = price * rate total = price + tax return round ( total, 2 )"
+mBERT,CODE,,code_b,"for i in range(3):
+    for j in range(3):
+        if i != j:
+            print(i, j)
+        total = i + j
+",107,33,0.308411214953271,,0,0,0.0,False,,"for i in range ( 3 ) : for j in range ( 3 ) : if i! = j : print ( i, j ) total = i + j"
+mBERT,CODE,,code_c,"def greet(name):
+    # 打招呼：回傳問候語
+    message = ""你好，"" + name  # 中文字串
+    return message
+",87,33,0.3793103448275862,,0,0,0.0,False,,"def greet ( name ) : # 打 招 呼 ： 回 傳 問 候 語 message = "" 你 好 ， "" + name # 中 文 字 串 return message"
+XLM-R,EN,1,set1_EN,I'm going to have lunch with my colleagues later.,49,12,0.24489795918367346,,0,0,,True,True,I'm going to have lunch with my colleagues later.
+XLM-R,ZH_WRITTEN,1,set1_ZH_WRITTEN,我稍後會和同事去吃午飯。,12,11,0.9166666666666666,0.9166666666666666,0,0,,True,True,我稍後會和同事去吃午飯。
+XLM-R,ZH_SIMPLIFIED,1,set1_ZH_SIMPLIFIED,我稍后会和同事去吃午饭。,12,11,0.9166666666666666,0.9166666666666666,0,0,,True,True,我稍后会和同事去吃午饭。
+XLM-R,CANTONESE,1,set1_CANTONESE,我陣間同啲同事去食晏。,11,10,0.9090909090909091,0.8333333333333334,0,0,,True,True,我陣間同啲同事去食晏。
+XLM-R,CODE_MIXED,1,set1_CODE_MIXED,我陣間同啲 colleague 去 lunch。,24,12,0.5,1.0,0,0,,True,True,我陣間同啲 colleague 去 lunch。
+XLM-R,EN,2,set2_EN,The meeting has been postponed to next Monday because the client is not available.,82,17,0.2073170731707317,,0,0,,True,True,The meeting has been postponed to next Monday because the client is not available.
+XLM-R,ZH_WRITTEN,2,set2_ZH_WRITTEN,由於客戶沒有空，會議已延至下星期一。,18,14,0.7777777777777778,0.8235294117647058,0,0,,False,True,"由於客戶沒有空,會議已延至下星期一。"
+XLM-R,ZH_SIMPLIFIED,2,set2_ZH_SIMPLIFIED,由于客户没有空，会议已延至下星期一。,18,14,0.7777777777777778,0.8235294117647058,0,0,,False,True,"由于客户没有空,会议已延至下星期一。"
+XLM-R,CANTONESE,2,set2_CANTONESE,個客唔得閒，所以個會改咗去下個禮拜一。,19,18,0.9473684210526315,1.0588235294117647,0,0,,False,True,"個客唔得閒,所以個會改咗去下個禮拜一。"
+XLM-R,CODE_MIXED,2,set2_CODE_MIXED,個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。,46,20,0.43478260869565216,1.1764705882352942,0,0,,False,True,"個 client 唔得閒,所以個 meeting postpone 咗去下個 Monday。"
+XLM-R,EN,3,set3_EN,Can you send me the latest version of the design file?,54,12,0.2222222222222222,,0,0,,True,True,Can you send me the latest version of the design file?
+XLM-R,ZH_WRITTEN,3,set3_ZH_WRITTEN,你可以把設計檔案的最新版本傳給我嗎？,18,11,0.6111111111111112,0.9166666666666666,0,0,,False,True,你可以把設計檔案的最新版本傳給我嗎?
+XLM-R,ZH_SIMPLIFIED,3,set3_ZH_SIMPLIFIED,你可以把设计档案的最新版本传给我吗？,18,11,0.6111111111111112,0.9166666666666666,0,0,,False,True,你可以把设计档案的最新版本传给我吗?
+XLM-R,CANTONESE,3,set3_CANTONESE,你可唔可以將份設計檔最新嗰個版本傳俾我？,20,16,0.8,1.3333333333333333,0,0,,False,True,你可唔可以將份設計檔最新嗰個版本傳俾我?
+XLM-R,CODE_MIXED,3,set3_CODE_MIXED,你可唔可以 send 份 design file 嘅 latest version 俾我？,45,17,0.37777777777777777,1.4166666666666667,0,0,,False,True,你可唔可以 send 份 design file 嘅 latest version 俾我?
+XLM-R,EN,4,set4_EN,"The deadline for this project is very tight, so we need to work overtime.",73,17,0.2328767123287671,,0,0,,True,True,"The deadline for this project is very tight, so we need to work overtime."
+XLM-R,ZH_WRITTEN,4,set4_ZH_WRITTEN,這個項目的限期很緊迫，所以我們需要加班。,20,15,0.75,0.8823529411764706,0,0,,False,True,"這個項目的限期很緊迫,所以我們需要加班。"
+XLM-R,ZH_SIMPLIFIED,4,set4_ZH_SIMPLIFIED,这个项目的限期很紧迫，所以我们需要加班。,20,14,0.7,0.8235294117647058,0,0,,False,True,"这个项目的限期很紧迫,所以我们需要加班。"
+XLM-R,CANTONESE,4,set4_CANTONESE,呢個項目好趕，所以我哋要加班。,15,12,0.8,0.7058823529411765,0,0,,False,True,"呢個項目好趕,所以我哋要加班。"
+XLM-R,CODE_MIXED,4,set4_CODE_MIXED,呢個 project 個 deadline 好 tight，所以我哋要 OT。,39,16,0.41025641025641024,0.9411764705882353,0,0,,False,True,"呢個 project 個 deadline 好 tight,所以我哋要 OT。"
+XLM-R,EN,5,set5_EN,"I haven't seen him for a long time, and I don't know what he is doing now.",74,23,0.3108108108108108,,0,0,,True,True,"I haven't seen him for a long time, and I don't know what he is doing now."
+XLM-R,ZH_WRITTEN,5,set5_ZH_WRITTEN,我很久沒有見過他，不知道他現在在做甚麼。,20,14,0.7,0.6086956521739131,0,0,,False,True,"我很久沒有見過他,不知道他現在在做甚麼。"
+XLM-R,ZH_SIMPLIFIED,5,set5_ZH_SIMPLIFIED,我很久没有见过他，不知道他现在在做甚么。,20,14,0.7,0.6086956521739131,0,0,,False,True,"我很久没有见过他,不知道他现在在做甚么。"
+XLM-R,CANTONESE,5,set5_CANTONESE,我好耐冇見過佢，唔知佢而家做緊乜嘢。,18,18,1.0,0.782608695652174,0,0,,False,True,"我好耐冇見過佢,唔知佢而家做緊乜嘢。"
+XLM-R,CODE_MIXED,5,set5_CODE_MIXED,我好耐冇見過佢，唔知佢而家做緊乜 job。,21,18,0.8571428571428571,0.782608695652174,0,0,,False,True,"我好耐冇見過佢,唔知佢而家做緊乜 job。"
+XLM-R,CODE,,code_a,"def add_tax(price, rate=0.05):
+    tax = price * rate
+    total = price + tax
+    return round(total, 2)
+",105,31,0.29523809523809524,,0,0,0.0,False,,"def add_tax(price, rate=0.05): tax = price * rate total = price + tax return round(total, 2)"
+XLM-R,CODE,,code_b,"for i in range(3):
+    for j in range(3):
+        if i != j:
+            print(i, j)
+        total = i + j
+",107,29,0.27102803738317754,,0,0,0.0,False,,"for i in range(3): for j in range(3): if i != j: print(i, j) total = i + j"
+XLM-R,CODE,,code_c,"def greet(name):
+    # 打招呼：回傳問候語
+    message = ""你好，"" + name  # 中文字串
+    return message
+",87,32,0.367816091954023,,0,0,2.0,False,,"def greet(name): # 打招呼:回傳問候語 message = ""你好,"" + name # 中文字串 return message"

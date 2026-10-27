@@ -1,0 +1,11 @@
+sample_id,category,token_count_before,token_count_after,unk_before,unk_after,roundtrip_content_before,roundtrip_content_after
+set1_CANTONESE,CANTONESE,11,11,1,0,False,True
+set1_CODE_MIXED,CODE_MIXED,11,11,1,0,False,True
+set2_CANTONESE,CANTONESE,19,19,1,0,False,True
+set2_CODE_MIXED,CODE_MIXED,18,18,1,0,False,True
+set3_CANTONESE,CANTONESE,20,20,1,0,False,True
+set3_CODE_MIXED,CODE_MIXED,15,15,0,0,True,True
+set4_CANTONESE,CANTONESE,15,15,1,0,False,True
+set4_CODE_MIXED,CODE_MIXED,17,17,1,0,False,True
+set5_CANTONESE,CANTONESE,18,18,1,0,False,True
+set5_CODE_MIXED,CODE_MIXED,18,18,1,0,False,True
