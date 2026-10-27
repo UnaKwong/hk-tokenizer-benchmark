@@ -1,0 +1,62 @@
+{
+  "_note": "Edit freely. ZH_SIMPLIFIED is regenerated from ZH_WRITTEN (OpenCC t2s) every time the notebook runs.",
+  "sets": [
+    {
+      "id": 1,
+      "EN": "I'm going to have lunch with my colleagues later.",
+      "ZH_WRITTEN": "我稍後會和同事去吃午飯。",
+      "ZH_SIMPLIFIED": "我稍后会和同事去吃午饭。",
+      "CANTONESE": "我陣間同啲同事去食晏。",
+      "CODE_MIXED": "我陣間同啲 colleague 去 lunch。"
+    },
+    {
+      "id": 2,
+      "EN": "The meeting has been postponed to next Monday because the client is not available.",
+      "ZH_WRITTEN": "由於客戶沒有空，會議已延至下星期一。",
+      "ZH_SIMPLIFIED": "由于客户没有空，会议已延至下星期一。",
+      "CANTONESE": "個客唔得閒，所以個會改咗去下個禮拜一。",
+      "CODE_MIXED": "個 client 唔得閒，所以個 meeting postpone 咗去下個 Monday。"
+    },
+    {
+      "id": 3,
+      "EN": "Can you send me the latest version of the design file?",
+      "ZH_WRITTEN": "你可以把設計檔案的最新版本傳給我嗎？",
+      "ZH_SIMPLIFIED": "你可以把设计档案的最新版本传给我吗？",
+      "CANTONESE": "你可唔可以將份設計檔最新嗰個版本傳俾我？",
+      "CODE_MIXED": "你可唔可以 send 份 design file 嘅 latest version 俾我？"
+    },
+    {
+      "id": 4,
+      "EN": "The deadline for this project is very tight, so we need to work overtime.",
+      "ZH_WRITTEN": "這個項目的限期很緊迫，所以我們需要加班。",
+      "ZH_SIMPLIFIED": "这个项目的限期很紧迫，所以我们需要加班。",
+      "CANTONESE": "呢個項目好趕，所以我哋要加班。",
+      "CODE_MIXED": "呢個 project 個 deadline 好 tight，所以我哋要 OT。"
+    },
+    {
+      "id": 5,
+      "EN": "I haven't seen him for a long time, and I don't know what he is doing now.",
+      "ZH_WRITTEN": "我很久沒有見過他，不知道他現在在做甚麼。",
+      "ZH_SIMPLIFIED": "我很久没有见过他，不知道他现在在做甚么。",
+      "CANTONESE": "我好耐冇見過佢，唔知佢而家做緊乜嘢。",
+      "CODE_MIXED": "我好耐冇見過佢，唔知佢而家做緊乜 job。"
+    }
+  ],
+  "code": [
+    {
+      "id": "a",
+      "description": "Function, 4-space indentation",
+      "text": "def add_tax(price, rate=0.05):\n    tax = price * rate\n    total = price + tax\n    return round(total, 2)\n"
+    },
+    {
+      "id": "b",
+      "description": "Nested loops, 8-12 spaces",
+      "text": "for i in range(3):\n    for j in range(3):\n        if i != j:\n            print(i, j)\n        total = i + j\n"
+    },
+    {
+      "id": "c",
+      "description": "Chinese comments and string literal",
+      "text": "def greet(name):\n    # 打招呼：回傳問候語\n    message = \"你好，\" + name  # 中文字串\n    return message\n"
+    }
+  ]
+}
